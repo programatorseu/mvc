@@ -2,7 +2,7 @@
 
 There is really low-level barrier to entry if it comes to PHP
 
-**Table of contents **
+**Table of contents**
 
 1. Arrays  & Associative Array
 
@@ -12,9 +12,9 @@ There is really low-level barrier to entry if it comes to PHP
 
 4. Code Organization 
 
-5. PDO 
+5. PDO Connections
 
-   ​	
+   
 
 ### 1. Arrays
 
@@ -199,8 +199,7 @@ routing($uri, $routes);
 ```
 
 
-
-	### 5. PDO
+### 5.PDO Connections
 
 http_buid_query to build query string 
 
